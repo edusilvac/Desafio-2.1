@@ -43,9 +43,6 @@ import fs from 'fs';
 }
 
 function validarCPF(cpf) {
-  // Implemente a validação correta do CPF
-  // Retorna true se o CPF for válido, caso contrário, retorna false
-  // Exemplo fictício para ilustração:
   return cpf.length === 11;
 } 
 
